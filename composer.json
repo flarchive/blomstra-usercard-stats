@@ -1,0 +1,41 @@
+{
+    "name": "blomstra/usercard-stats",
+    "description": "Add stats to the usercard for your forum users",
+    "keywords": [
+        "flarum", "profile", "stats"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": ">=1.2.0 <1.4.0"
+    },
+    "authors": [
+        {
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://blomstra.net",
+    "support": {
+        "source": "https://github.com/blomstra/flarum-ext-usercard-stats",
+        "issues": "https://github.com/blomstra/flarum-ext-usercard-stats/issues",
+        "support": "helpdesk@blomstra.net"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\UsercardStats\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Usercard Stats",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-chart-bar",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}

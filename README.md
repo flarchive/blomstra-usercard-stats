@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of blomstra/usercard-stats.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/usercard-stats) or the [upstream repository](https://github.com/blomstra/flarum-ext-usercard-stats).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/blomstra-usercard-stats/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.3.1`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/blomstra-usercard-stats/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-05-23 | `>=1.2.0 <1.4.0` | [Browse](https://github.com/flarchive/blomstra-usercard-stats/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-06-07 | `^1.3.1` | [Browse](https://github.com/flarchive/blomstra-usercard-stats/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-06-07 | `^1.3.1` | [Browse](https://github.com/flarchive/blomstra-usercard-stats/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/blomstra-usercard-stats.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-usercard-stats.json)
 
